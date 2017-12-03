@@ -1,0 +1,18 @@
+hash: 90ebf1d6498965d064e24f2fbc5a563409d8326941b03be3cdb1c12ab16ae640
+updated: 2017-11-29T12:11:49.687738278-08:00
+imports:
+- name: github.com/jinzhu/gorm
+  version: 5174cc5c242a728b435ea2be8a2f7f998e15429b
+  subpackages:
+  - dialects/sqlite
+- name: github.com/jinzhu/inflection
+  version: 1c35d901db3da928c72a72d8458480cc9ade058f
+- name: github.com/mattn/go-sqlite3
+  version: d5ffb5c0cca8778699a929b236766f4a7af674e8
+- name: github.com/tylerb/graceful
+  version: 4654dfbb6ad53cb5e27f37d99b02e16c1872fbbb
+- name: golang.org/x/net
+  version: 4b14673ba32bee7f5ac0f990a48f033919fd418b
+  subpackages:
+  - context
+testImports: []
